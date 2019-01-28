@@ -1,11 +1,12 @@
 # Daily-Ui
 Daily Ui Challenge
 
-** Author : Amir shokri **
-** Daily Ui : [www.dailyui.co](http://www.dailyui.co/) **
+**Author : Amir shokri**
+
+**Daily Ui : [www.dailyui.co](http://www.dailyui.co/)**
 
 
-** Challenge List :
+**Challenge List :**
 
 1. Sign Up
 2. Credit Card Checkout

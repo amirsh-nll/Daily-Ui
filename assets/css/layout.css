@@ -18,28 +18,22 @@ div {
 	height: 100%;
 	margin : 0;
 	padding: 0;
-	display: block;
 }
 .ui-001 .right-side {
 	height: 100vh;
-	position: relative;
 }
 .ui-001 .left-side {
 	height: 100vh;
-	position: relative;
 	background: url(../img/background-001.jpg) center top;
 }
 .ui-001 .left-side .left-side-section1 {
-	position: absolute;
 	top: 0;
 }
 .ui-001 .left-side .left-side-section2 {
 	margin: auto;
-	position: absolute;
     top:40%;
 }
 .ui-001 .left-side .left-side-section3 {
-	position: absolute;
 	width: 60px;
 	bottom: 20px;
 }
@@ -48,8 +42,42 @@ div {
 	padding:20px;
 }
 .ui-001 .right-side .copyright {
-	position: absolute;
 	width: 150px;
 	bottom: 10px;
 	right: 30px;
+}
+.ui-001 .sign-up-form {
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	padding: 20px;
+	box-shadow: 0 0 3px #ffffff;
+	border-radius: 20px;
+	max-height: 300px;
+}
+.ui-001 .sign-up-form h2 {
+	border-bottom: 1px solid #e74c3c;
+	padding-bottom: 10px;
+	width: 60px;
+	margin-bottom: 20px;
+}
+.ui-001 .sign-up-form input {
+	margin-bottom: 20px;
+}
+.ui-001 .sign-up-form input[type="text"], .ui-001 .sign-up-form input[type="password"] {
+	outline: none;
+	padding: 5px;
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 2vh;
+}
+.ui-001 .sign-up-form input[type="submit"] {
+	padding: 5px;
+	width: 80%;
+	box-sizing: border-box;
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 1.5vh;
 }

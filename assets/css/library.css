@@ -108,6 +108,15 @@
 .m-auto {
 	margin: auto;
 }
+.p-relative {
+	position: relative;
+}
+.p-absolute {
+	position: absolute;
+}
+.b-none {
+	border: none;
+}
 
 
 /* Text Classes */

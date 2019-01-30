@@ -11,9 +11,10 @@
 </head>
 <body>
 
-	<div class="ui-001 left-to-right krub-regular">
+	<div class="ui-001 left-to-right krub-regular d-block">
 
-		<div class="right-side col-6 float-right">
+		<!-- Page Content -->
+		<div class="right-side col-6 float-right p-relative clouds-bg">
 			<div class="container">
 
 				<div class="row">
@@ -23,30 +24,30 @@
 				</div>
 
 				<div class="row">
-					<div class="col-12 text-right copyright">
+					<div class="col-12 text-right copyright p-absolute">
 						<p class="display-1-2">&copy; 2019 Amir Shokri.</p>
 					</div>
 				</div>
 				
 			</div>
 		</div>
-		<div class="left-side col-6 float-left alizarin-bg">
+		<div class="left-side col-6 float-left alizarin-bg p-relative">
 			<div class="container">
 
-				<div class="row left-side-section1">
+				<div class="row left-side-section1 p-absolute">
 					<div class="col-12">
 						<h1 class="text-light krub-bold">Sign Up</h1>
 					</div>
 				</div>
 
-				<div class="row left-side-section2">
+				<div class="row left-side-section2 p-absolute">
 					<div class="col-12 text-light">
-						<p class="display-3">Hope You Enjoy</h2>
+						<p class="display-3">Hope You Enjoy</p>
 						<p class="display-3">It's free and always will be.</p>
 					</div>
 				</div>
 
-				<div class="row left-side-section3">
+				<div class="row left-side-section3 p-absolute">
 					<div class="col-12">
 						<a href="#" title="Back To Home" class="text-light"><span class="fas fa-1x fa-chevron-left"></span>&nbsp;<span>Home</span></a>
 					</div>
@@ -55,6 +56,18 @@
 			</div>
 		</div>
 		<div class="clearfix"></div>
+
+		<!-- Sign Up Form -->
+		<div class="col-3 m-auto sign-up-form p-absolute bg-light">
+			<form action="/" method="post">
+				<h2 class="m-auto display-1-2 d-block text-center">sign up</h2>
+				<input class="d-block krub-regular b-none" type="text" name="name" placeholder="❭ Name" />
+				<input class="d-block krub-regular b-none" type="text" name="email" placeholder="❭ Email" />
+				<input class="d-block krub-regular b-none" type="password" name="password" placeholder="❭ password" >
+				<input class="d-block krub-regular b-none alizarin-bg text-center text-light m-auto" type="submit" value="Get Started" />
+				<p class="text-center display-1">Have An Account?! <a href="#" title="Sing In" class="alizarin">Sign In</a></p>
+			</form>
+		</div>
 
 	</div>
 

@@ -4,6 +4,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
+	height: 100%;
 }
 a {
 	text-decoration: none;
@@ -80,4 +81,86 @@ div {
 	border-radius: 20px;
 	cursor: pointer;
 	font-size: 1.5vh;
+}
+
+
+/* UI-002 */
+.ui-002 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+.ui-002 .main-box {
+	margin-top: 100px;
+	display: block;
+}
+.ui-002 .left-side {
+	min-height: 500px;
+	padding: 25px;
+}
+.ui-002 .right-side {
+	min-height: 500px;
+	padding: 5px;
+}
+.ui-002 .product-image {
+	margin: 50px 0 0 -100px;
+}
+.ui-002 .container {
+	box-shadow: 0 0 1000px #555555;
+	padding: 0;
+}
+.ui-002 .price {
+	line-height: 0px;
+	margin-top: 50px;
+	letter-spacing: 5px;
+}
+.ui-002 .pay-form {
+	width: 90%;
+}
+.ui-002 .pay-form label {
+	width: 100%;
+	letter-spacing: 5px;
+	color: #666666;
+}
+.ui-002 .pay-form input[type="text"] {
+	border: none;
+	border-bottom: 1px solid #666666;
+	width: 95%;
+	padding: 5px;
+	box-sizing: border-box;
+	outline: none;
+	font-size: 20px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	letter-spacing: 5px;
+	margin-top: 10px;
+}
+.ui-002 .pay-form input[type="submit"] {
+	border-radius: 50px;
+	padding: 20px 40px;
+	box-sizing: border-box;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	margin-top: 10px;
+
+}
+.ui-002 .pay-form #cvs, .ui-002 .pay-form #expiredate {
+	width: 98% !important;
+}
+.ui-002 .pay-form .section1 {
+	margin-bottom: 100px;
+}
+.ui-002 .pay-form .section2 {
+	margin-bottom: 100px;
+}
+.ui-002 .pay-form .section3 {
+	
+}
+.ui-002 .pay-form .section1 input {
+	width: 100% !important;
+}
+.ui-002 .pay-form .section1 span {
+	color: #34495e
 }

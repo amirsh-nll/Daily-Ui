@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="assets/css/library.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/layout.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/krub-font.css" />
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-002.png">
+	<link rel="stylesheet" href="assets/lib/awesome/css/all.css">
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+		function credit_sept() {
+			var cardnumber = document.getElementById("cardnumber");
+			mydata = cardnumber.value;
+
+			for(var j=0; j<=16; j++)
+				mydata = mydata.replace(" ", "");
+
+			var result = "";
+
+			if(mydata.length > 3)
+			{
+
+				for (var i = 0; i < mydata.length; i++) {
+					
+					if(i==16){
+						break;
+					}
+
+					if(i == 4 || i == 8 || i == 12) {
+						result = result + "   ";
+					}
+
+					result = result + mydata.charAt(i);
+				}
+				cardnumber.value = result;
+			}
+		}
+	</script>
+	<script type="text/javascript">
+		function expiredate_sept() {
+			var expiredate = document.getElementById("expiredate");
+			mydata = expiredate.value;
+			
+			for(var j=0; j<=16; j++)
+				mydata = mydata.replace(" ", "");
+
+			var result = "";
+
+			if(mydata.length > 1)
+			{
+
+				for (var i = 0; i < mydata.length; i++) {
+					
+					if(i==4){
+						break;
+					}
+
+					if(i == 2) {
+						result = result + " ";
+					}
+
+					result = result + mydata.charAt(i);
+				}
+				expiredate.value = result;
+			}
+		}
+	</script>
+</head>
+<body>
+
+	<div class="ui-002 left-to-right krub-regular d-block clouds-bg">
+		&nbsp;
+		<!-- Page Content -->
+		<div class="main-box col-7 m-auto">
+			<div class="container">
+				<div class="row">
+					<div class="right-side col-3 float-right wet-asphalt-bg">
+						<div class="product-image p-relative text-center">
+							<img src="assets/img/product-002.png" title="Apple Watch 3" alt="Apple Watch 3" width="250">
+						</div>
+
+						<div class="text-center price">
+							<label class="silver display-2">Total</label>
+							<p class="text-light display-3">$ 399.9</p>
+						</div>
+					</div>
+
+					<div class="left-side col-9 float-left bg-light">
+						<form action="/" method="post" class="pay-form">
+							
+							<div class="col-12 section1">
+								<label class="d-block" for="cardnumber">Card Number</label>
+								<input type="text" name="cardnumber" id="cardnumber" class="krub-regular" maxlength="25" onkeydown="credit_sept()" />
+								<span class="fab fa-1x fa-cc-mastercard"></span>
+							</div>
+
+							<div class="col-12 section2">
+								<div class="col-6 float-right">
+									<label class="d-block" for="cvs">CVS Code</label>
+									<input type="text" name="cvs" id="cvs" class="krub-regular" maxlength="4" />
+								</div>
+								<div class="col-6 float-left">
+									<label class="d-block" for="expiredate">MM YY</label>
+									<input type="text" name="expiredate" id="expiredate" class="krub-regular" maxlength="7" onkeydown="expiredate_sept()"/>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+
+							<div class="col-12 section3">
+								<div class="col-9 float-left">
+									<label class="d-block" for="name">Name</label>
+									<input type="text" name="name" id="name" class="krub-regular" maxlength="255" />
+								</div>
+								<div class="col-3 float-right">
+									<input type="submit" value="Pay Now" class="nephritis-bg text-light krub-bold" />
+								</div>
+								<div class="clearfix"></div>
+							</div>
+
+
+						</form>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-7 m-auto">
+			<p class="display-1-2 text-right">&copy; 2019 Amir Shokri.</p>
+		</div>
+
+	</div>
+
+</body>
+</html>

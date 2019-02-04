@@ -12,8 +12,8 @@ Daily Ui Challenge (100)
 
 ### Challenge List :
 
-1. Sign Up
-2. Credit Card Checkout
+1. Sign Up ✓
+2. Credit Card Checkout ✓
 3. Landing Page
 4. Calculator
 5. App Icon

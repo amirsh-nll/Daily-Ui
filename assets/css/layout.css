@@ -164,3 +164,12 @@ div {
 .ui-002 .pay-form .section1 span {
 	color: #34495e
 }
+
+
+/* UI-003 */
+.ui-003 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

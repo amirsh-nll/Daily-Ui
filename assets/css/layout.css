@@ -168,8 +168,80 @@ div {
 
 /* UI-003 */
 .ui-003 {
+	overflow-y:hidden;
 	width: 100%;
 	height: 100%;
 	margin : 0;
 	padding: 0;
+}
+.ui-003 .header .header-top .navbar li {
+	margin-left: 40px;
+}
+.ui-003 .header .header-bottom {
+	padding: 20px 0;
+}
+.ui-003 .header .header-bottom .information {
+	letter-spacing: 3px;
+}
+.ui-003 .header .header-bottom .information p span:nth-child(even) {
+	width: 200px;
+	display: inline-block;
+}
+.ui-003 .header .header-bottom .heading {
+	padding-top:28.8px;
+}
+.ui-003 .content {
+	width: 100%;
+	min-height: 75vh;
+	background: url(../img/background-003.jpg);
+	background-size: cover;
+}
+.ui-003 .form {
+	
+}
+.ui-003 .form form {
+	border-radius: 15px;
+	padding: 20px;
+	background: #eeeeee;
+	margin-top: 70px;
+}
+.ui-003 .form table {
+	width: 100%;
+	max-width: 500px;
+}
+.ui-003 .form td:nth-child(1), .ui-003 .form td:nth-child(3) {
+	width: 48%;
+}
+.ui-003 .form table input[type="text"] {
+	outline: none;
+	border: 1px solid #aaa;
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
+.ui-003 .form table select {
+	outline: none;
+	border: 1px solid #aaa;
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
+.ui-003 .form table .flight-type {
+	border: none !important;
+	background: #eeeeee;
+	width: 110px;
+}
+.ui-003 .form table input[type="submit"] {
+	outline: none;
+	border: none;
+	cursor: pointer;
+	padding: 10px 50px;
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.ui-003 .form .copyright {
+	margin-top: 15px;
 }

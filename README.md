@@ -5,6 +5,8 @@ Daily Ui Challenge (100)
 
 * Author : Amir shokri
 
+* My Dribbble : [www.dribbble.com/amirsh_nll](https://dribbble.com/amirsh_nll)
+
 * Daily Ui : [www.dailyui.co](http://www.dailyui.co/)
 
 
@@ -14,7 +16,7 @@ Daily Ui Challenge (100)
 
 1. Sign Up ✓
 2. Credit Card Checkout ✓
-3. Landing Page
+3. Landing Page ✓
 4. Calculator
 5. App Icon
 6. User Profile

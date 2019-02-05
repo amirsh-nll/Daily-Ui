@@ -117,6 +117,12 @@
 .b-none {
 	border: none;
 }
+.navbar {
+	display: inline-block;
+}
+.navbar li {
+	display: inline-block;
+}
 
 
 /* Text Classes */

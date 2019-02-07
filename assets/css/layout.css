@@ -13,6 +13,16 @@ div {
 	box-sizing: border-box;
 }
 
+
+/* UI-index */
+.ui-index {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+
+
 /* UI-001 */
 .ui-001 {
 	width: 100%;
@@ -244,4 +254,13 @@ div {
 }
 .ui-003 .form .copyright {
 	margin-top: 15px;
+}
+
+
+/* UI-004 */
+.ui-004 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
 }

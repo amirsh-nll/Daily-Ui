@@ -264,3 +264,22 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-004 .container {
+	padding-top: 70px;
+}
+.ui-004 .calculator {
+	box-shadow: 0px 0px 500px #000000;
+}
+.ui-004 .display {
+	min-height: 200px;
+	padding: 20px;
+}
+.ui-004 .keyboard {
+	min-height: 400px;
+	padding: 20px;
+}
+.ui-004 .key-button {
+	border-radius: 100%;
+	height: 100%;
+	cursor: pointer;
+}

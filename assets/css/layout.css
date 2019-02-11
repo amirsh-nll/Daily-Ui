@@ -21,6 +21,15 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-index .col-12 {
+	margin: 100px 0;
+}
+.ui-index li {
+	margin-bottom: 20px;
+}
+.ui-index li a {
+	font-weight: bold;
+}
 
 
 /* UI-001 */
@@ -291,6 +300,7 @@ div {
 	padding-top: 30px;
 	height: 90px;
 	border-radius: 100%;
+	cursor: pointer;
 }
 .ui-004 .key-indent {
 	padding: 5px;

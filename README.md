@@ -3,7 +3,7 @@ Daily Ui Challenge (100)
 
 **Info :**
 
-* Author : Amir shokri
+* Author : Amir shokri(mailto:amirsh.nll@gmail.com)
 
 * My Dribbble : [www.dribbble.com/amirsh_nll](https://dribbble.com/amirsh_nll)
 

@@ -264,8 +264,8 @@ div {
 	margin : 0;
 	padding: 0;
 }
-.ui-004 .container {
-	padding-top: 70px;
+.ui-004 .main-container {
+	padding:200px 0;
 }
 .ui-004 .calculator {
 	box-shadow: 0px 0px 500px #000000;
@@ -274,12 +274,24 @@ div {
 	min-height: 200px;
 	padding: 20px;
 }
+.ui-004 .operation {
+	line-height: 0;
+	letter-spacing: 3px;
+}
+.ui-004 .result {
+	line-height: 0;
+	letter-spacing: 5px;
+}
 .ui-004 .keyboard {
-	min-height: 400px;
+	min-height: 300px;
 	padding: 20px;
 }
 .ui-004 .key-button {
+	margin-bottom: 10px;
+	padding-top: 30px;
+	height: 90px;
 	border-radius: 100%;
-	height: 100%;
-	cursor: pointer;
 }
+.ui-004 .key-indent {
+	padding: 5px;
+} 

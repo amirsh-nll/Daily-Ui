@@ -166,11 +166,41 @@
 .display-3 {
 	font-size: 30px;
 }
-.display-4-5 {
+.display-3-4 {
 	font-size: 35px;
 }
 .display-4 {
 	font-size: 40px;
+}
+.display-4-5 {
+	font-size: 45px;
+}
+.display-5 {
+	font-size: 50px;
+}
+.display-5-6 {
+	font-size: 55px;
+}
+.display-6 {
+	font-size: 60px;
+}
+.display-6-7 {
+	font-size: 65px;
+}
+.display-7 {
+	font-size: 70px;
+}
+.display-7-8 {
+	font-size: 75px;
+}
+.display-8 {
+	font-size: 80px;
+}
+.display-8-9 {
+	font-size: 85px;
+}
+.display-9 {
+	font-size: 90px;
 }
 .text-light {
 	color: #ffffff;

@@ -305,3 +305,12 @@ div {
 .ui-004 .key-indent {
 	padding: 5px;
 } 
+
+
+/* UI-005 */
+.ui-005 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

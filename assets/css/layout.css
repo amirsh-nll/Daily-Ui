@@ -317,3 +317,12 @@ div {
 .ui-005 .app-icon {
 	padding-top: 70px;
 }
+
+
+/* UI-006 */
+.ui-006 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

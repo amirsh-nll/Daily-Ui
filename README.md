@@ -19,7 +19,7 @@ Daily Ui Challenge (100)
 3. Landing Page 					✓
 4. Calculator 						✓
 5. App Icon							✓
-6. User Profile
+6. User Profile						✓
 7. Settings
 8. 404 page
 9. Music Player

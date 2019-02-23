@@ -94,13 +94,13 @@
 	clear: both;
 }
 .d-inline {
-	display: inline;
+	display: inline !important;
 }
 .d-block {
-	display: block;
+	display: block !important;
 }
 .d-inline-block {
-	display: inline-block;
+	display: inline-block !important;
 }
 .d-none {
 	display: none;
@@ -152,55 +152,55 @@
 	font-style: italic;
 }
 .display-1 {
-	font-size: 10px;
+	font-size: 10px !important;
 }
 .display-1-2 {
-	font-size: 15px;
+	font-size: 15px !important;
 }
 .display-2 {
-	font-size: 20px;
+	font-size: 20px !important;
 }
 .display-2-3 {
-	font-size: 25px;
+	font-size: 25px !important;
 }
 .display-3 {
-	font-size: 30px;
+	font-size: 30px !important;
 }
 .display-3-4 {
-	font-size: 35px;
+	font-size: 35px !important;
 }
 .display-4 {
-	font-size: 40px;
+	font-size: 40px !important;
 }
 .display-4-5 {
-	font-size: 45px;
+	font-size: 45px !important;
 }
 .display-5 {
-	font-size: 50px;
+	font-size: 50px !important;
 }
 .display-5-6 {
-	font-size: 55px;
+	font-size: 55px !important;
 }
 .display-6 {
-	font-size: 60px;
+	font-size: 60px !important;
 }
 .display-6-7 {
-	font-size: 65px;
+	font-size: 65px !important;
 }
 .display-7 {
-	font-size: 70px;
+	font-size: 70px !important;
 }
 .display-7-8 {
-	font-size: 75px;
+	font-size: 75px !important;
 }
 .display-8 {
-	font-size: 80px;
+	font-size: 80px !important;
 }
 .display-8-9 {
-	font-size: 85px;
+	font-size: 85px !important;
 }
 .display-9 {
-	font-size: 90px;
+	font-size: 90px !important;
 }
 .text-light {
 	color: #ffffff;

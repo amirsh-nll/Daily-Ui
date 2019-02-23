@@ -361,3 +361,73 @@ div {
 .ui-006 .profile-box .number {
 	letter-spacing: 3px;
 }
+
+
+/* UI-007 */
+.ui-007 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+.ui-007 .navbar-setting, .ui-007 .content-setting {
+	height: 100vh;
+}
+.ui-007 .navbar-setting h1 {
+	border-bottom: 1px solid #fff;
+	padding-bottom: 30px;
+	text-indent: 20px;
+}
+.ui-007 .navbar-setting ul {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.ui-007 .navbar-setting li {
+	margin-bottom: 30px;
+	width: 100%;
+	padding: 10px 0;
+	text-indent: 30px;
+}
+.ui-007 .navbar-setting ul .active {
+	border-right: 25px solid #000;
+}
+
+.ui-007 .content-setting {
+	padding:100px;
+}
+.ui-007 .content-setting .row {
+	margin-bottom: 50px;
+}
+.ui-007 .content-setting .row p {
+	line-height: 40px;
+}
+.ui-007 .on-off {
+	border-radius: 50px;
+	width: 70px;
+	height: 40px;
+	padding: 10px;
+	cursor: pointer;
+	margin-right: 30px;
+}
+.ui-007 .on-off .on-button {
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border:1px solid #eee;
+	cursor: pointer;
+}
+.ui-007 .on-off .off-button {
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border:1px solid #eee;
+	cursor: pointer;
+}
+.ui-007 .copyright {
+	border-top: 1px solid #fff;
+	bottom: 0;
+	text-indent: 20px;
+	padding-right: 50px;
+}

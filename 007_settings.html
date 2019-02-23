@@ -8,13 +8,108 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/krub-font.css" />
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-007.png">
 	<link rel="stylesheet" href="assets/lib/awesome/css/all.css">
+
+	<script type="text/javascript">
+		function change(numid) {
+			if(document.getElementById("on-button-" + numid).style.display == "none")
+			{
+
+				document.getElementById("off-button-" + numid).style.display = "none";
+				document.getElementById("on-button-" + numid).style.display = "inline";
+			}
+			else if(document.getElementById("off-button-" + numid).style.display == "none")
+			{
+				document.getElementById("on-button-" + numid).style.display = "none";
+				document.getElementById("off-button-" + numid).style.display = "inline";
+			}
+		}
+	</script>
+
 </head>
 <body>
 
-	<div class="ui-006 left-to-right krub-regular d-block">
+	<div class="ui-007 left-to-right krub-regular d-block">
 
 		<!-- Page Content -->
-		
+		<div class="setting">
+			<div class="navbar-setting col-3 float-left belize-hole-bg">
+				<h1 class="text-light display-3 text-normal"><span class="fas fa-1x fa-cog display-2-3"></span> Setting</h1>
+				<div class="container-fluid">
+					<div class="row">
+						<ul class="navbar text-light">
+							<li class="d-block">Account</li>
+							<li class="d-block">Email</li>
+							<li class="d-block">Security</li>
+							<li class="d-block active">Notifications</li>
+						</ul>
+					</div>
+				</div>
+				<div class="copyright text-light p-absolute">
+					<p class="display-1-2">&copy; 2019 Amir Shokri.</p>
+				</div>
+			</div>
+			<div class="content-setting col-9 float-right clouds-bg">
+				<div class="row">
+					<div class="row">
+						<h2>Notifications</h2>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-12">
+						<a id="on_off" onclick="change(1)">
+							<div class="on-off belize-hole-bg float-left">
+								<div id="on-button-1" class="on-button bg-light float-right" style="display: none;"></div>
+								<div id="off-button-1" class="off-button bg-light float-left" style="display: inline;"></div>
+							</div>
+						</a>
+						<p class="d-inline">Comments on Issues and Pull Requests</p>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-12">
+						<a id="on_off" onclick="change(2)">
+							<div class="on-off belize-hole-bg float-left">
+								<div id="on-button-2" class="on-button bg-light float-right" style="display: none;"></div>
+								<div id="off-button-2" class="off-button bg-light float-left" style="display: inline;"></div>
+							</div>
+						</a>
+						<p class="d-inline">Pull Request reviews</p>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-12">
+						<a id="on_off" onclick="change(3)">
+							<div class="on-off belize-hole-bg float-left">
+								<div id="on-button-3" class="on-button bg-light float-right" style="display: none;"></div>
+								<div id="off-button-3" class="off-button bg-light float-left" style="display: inline;"></div>
+							</div>
+						</a>
+						<p class="d-inline">Pull Request pushes</p>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-12">
+						<a id="on_off" onclick="change(4)">
+							<div class="on-off belize-hole-bg float-left">
+								<div id="on-button-4" class="on-button bg-light float-right" style="display: inline;"></div>
+								<div id="off-button-4" class="off-button bg-light float-left" style="display: none;"></div>
+							</div>
+						</a>
+						<p class="d-inline">Include your own updates</p>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+
+			</div>
+			<div class="clearfix"></div>
+		</div>
 
 	</div>
 

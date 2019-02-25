@@ -22,7 +22,7 @@ Daily Ui Challenge (100)
 6. User Profile						✓
 7. Settings							✓
 8. 404 page 						✓
-9. Music Player
+9. Music Player						✓
 10. Social Share
 11. Flash Message
 12. E-Commerce Shop

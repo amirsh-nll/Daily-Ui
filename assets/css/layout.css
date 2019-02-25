@@ -465,3 +465,12 @@ div {
 .ui-008 .image-box .col-3 p {
 	line-height: 30px;
 }
+
+
+/* UI-009 */
+.ui-009 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

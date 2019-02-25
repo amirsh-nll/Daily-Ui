@@ -21,7 +21,7 @@ Daily Ui Challenge (100)
 5. App Icon							✓
 6. User Profile						✓
 7. Settings							✓
-8. 404 page
+8. 404 page 						✓
 9. Music Player
 10. Social Share
 11. Flash Message

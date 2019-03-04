@@ -474,3 +474,7 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-009 .music-player {
+	border-radius: 30px;
+	margin: 100px auto;
+}

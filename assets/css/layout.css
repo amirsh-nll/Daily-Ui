@@ -475,6 +475,15 @@ div {
 	padding: 0;
 }
 .ui-009 .music-player {
-	border-radius: 30px;
 	margin: 100px auto;
+	min-height: 400px;
+	padding: 50px;
+	box-sizing: border-box;
+}
+.ui-009 .music-image img {
+	border-radius: 20px;
+}
+.ui-009 .current-play {
+	letter-spacing: 2px;
+	line-height: 30px;
 }

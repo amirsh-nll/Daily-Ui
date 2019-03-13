@@ -510,3 +510,12 @@ div {
 	height: 65px;
 	box-shadow: 0 0 5px #bdc3c7;
 }
+
+
+/* UI-010 */
+.ui-009 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

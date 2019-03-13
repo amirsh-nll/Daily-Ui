@@ -115,7 +115,7 @@
 	position: absolute;
 }
 .b-none {
-	border: none;
+	border: none !important;
 }
 .navbar {
 	display: inline-block;

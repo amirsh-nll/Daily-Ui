@@ -106,7 +106,7 @@
 	display: none;
 }
 .m-auto {
-	margin: auto;
+	margin: auto !important;
 }
 .p-relative {
 	position: relative;

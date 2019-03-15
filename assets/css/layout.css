@@ -569,5 +569,25 @@ div {
 	padding: 0;
 }
 .ui-011 .flash-message-box {
-	margin: 100px 0;
+	margin: 150px 0;
+}
+.ui-011 .flash-message-close span {
+	cursor: pointer;
+}
+.ui-011 .flash-message {
+	border-radius: 25px;
+	padding: 20px;
+}
+.ui-011 .success-message {
+	box-shadow: 0 0 200px #27ae60;
+}
+.ui-011 .unsuccess-message {
+	box-shadow: 0 0 200px #c0392b;
+}
+.ui-011 .flash-message-button {
+	padding: 20px;
+	border-radius: 25px;
+	cursor: pointer;
+	min-width: 200px;
+	box-shadow: 0 0 20px #aaa;
 }

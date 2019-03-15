@@ -591,3 +591,12 @@ div {
 	min-width: 200px;
 	box-shadow: 0 0 20px #aaa;
 }
+
+
+/* UI-012 */
+.ui-012 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

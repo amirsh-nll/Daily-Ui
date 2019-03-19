@@ -25,7 +25,7 @@ Daily Ui Challenge (100)
 9. Music Player						✓
 10. Social Share					✓
 11. Flash Message					✓
-12. E-Commerce Shop
+12. E-Commerce Shop 				✓
 13. Direct Messaging
 14. Countdown Timer
 15. On/Off Switch

@@ -591,6 +591,10 @@ div {
 	min-width: 200px;
 	box-shadow: 0 0 20px #aaa;
 }
+.ui-011 .copyright {
+	margin-top: 50px;
+	border-top: 1px solid #000;
+}
 
 
 /* UI-012 */
@@ -599,4 +603,61 @@ div {
 	height: 100%;
 	margin : 0;
 	padding: 0;
+}
+.ui-012 .left-shop {
+	height: 100vh;
+}
+.ui-012 .right-shop {
+	min-height: 100vh;
+}
+.ui-012 .right-shop .back-to {
+	letter-spacing: 1px;
+}
+.ui-012 .right-shop .back-to span {
+	margin-right: 30px;
+}
+.ui-012 .right-shop .avatar {
+	border-radius: 100%;
+	border:1px solid #ecf0f1;
+	padding: 10px;
+}
+.ui-012 .left-shop .top-left-shop {
+	padding: 33px;
+}
+.ui-012 .left-shop h1, .ui-012 .left-shop h2 {
+	letter-spacing: 7px;
+	line-height: 0;
+}
+.ui-012 .right-shop .top-right-shop {
+	padding: 50px;
+}
+.ui-012 .right-shop .product-item .product-price {
+	letter-spacing: 2px;
+}
+.ui-012 .right-shop .product-item a {
+	display: inline;
+}
+.ui-012 .right-shop .bottom-right-shop {
+	min-height: 100vh;
+	padding: 50px 0;
+}
+.ui-012 .right-shop .username {
+	margin-left: 25px;
+	cursor: pointer;
+}
+.ui-012 .bottom-left-shop {
+	padding: 30px;
+}
+.ui-012 .bottom-left-shop .category {
+	line-height: 50px;
+	margin-top: 70px !important;
+}
+.ui-012 .bottom-left-shop .category li, .ui-012 .bottom-left-shop .category {
+	margin :0;
+	padding: 0;
+	list-style: none;
+}
+.ui-012 .copyright {
+	bottom: -150px;
+	border-top: 1px solid #000;
 }

@@ -661,3 +661,30 @@ div {
 	bottom: -150px;
 	border-top: 1px solid #000;
 }
+
+
+/* UI-013 */
+.ui-013 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+
+
+/* UI-014 */
+.ui-014 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+
+
+/* UI-015 */
+.ui-015 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

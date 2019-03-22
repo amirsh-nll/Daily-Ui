@@ -744,3 +744,37 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-015 .on-off {
+	border-radius: 50px;
+	width: 70px;
+	height: 40px;
+	padding: 10px;
+	cursor: pointer;
+	margin-bottom: 30px;
+
+}
+.ui-015 .on-off .on-button {
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border:1px solid #eee;
+	cursor: pointer;
+}
+.ui-015 .on-off .off-button {
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border:1px solid #eee;
+	cursor: pointer;
+}
+.ui-015 .row {
+	margin: 100px auto !important;
+}
+.ui-015 .free-line {
+	height: 1px;
+	margin-bottom: 40px;
+}
+.ui-015 .copyright {
+	border-top: 1px solid #000;
+	padding-top: 20px;
+}

@@ -28,7 +28,7 @@ Daily Ui Challenge (100)
 12. E-Commerce Shop 				✓
 13. Direct Messaging				✓
 14. Countdown Timer					✓
-15. On/Off Switch
+15. On/Off Switch					✓
 16. Pop-Up / Overlay
 17. Email Receipt
 18. Analytics Chart

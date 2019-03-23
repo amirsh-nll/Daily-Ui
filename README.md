@@ -5,7 +5,7 @@ Daily Ui Challenge (100)
 
 * Author : Amir shokri(mailto:amirsh.nll@gmail.com)
 
-* My Dribbble : [www.dribbble.com/amirsh_nll](https://dribbble.com/amirsh_nll)
+* My Dribbble : [www.dribbble.com/amirshnll](https://dribbble.com/amirshnll)
 
 * Daily Ui : [www.dailyui.co](http://www.dailyui.co/)
 

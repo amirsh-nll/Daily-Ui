@@ -787,3 +787,16 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-016 .row {
+	margin: 200px 0;
+}
+.ui-016 .popup-box {
+	border-radius: 15px;
+	padding: 20px;
+	margin: 200px auto;
+}
+.ui-016 .popup-box .join-button {
+	padding: 10px 40px;
+	border-radius: 30px;
+	cursor: pointer;
+}

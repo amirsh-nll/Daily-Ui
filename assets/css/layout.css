@@ -786,6 +786,7 @@ div {
 	height: 100%;
 	margin : 0;
 	padding: 0;
+	overflow-y: hidden;
 }
 .ui-016 .row {
 	margin: 200px 0;
@@ -799,4 +800,13 @@ div {
 	padding: 10px 40px;
 	border-radius: 30px;
 	cursor: pointer;
+}
+
+
+/* UI-017 */
+.ui-017 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
 }

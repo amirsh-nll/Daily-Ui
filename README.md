@@ -30,7 +30,7 @@ Daily Ui Challenge (100)
 14. Countdown Timer					✓
 15. On/Off Switch					✓
 16. Pop-Up / Overlay				✓
-17. Email Receipt
+17. Email Receipt					✓
 18. Analytics Chart
 19. Leaderboard
 20. Location Tracker

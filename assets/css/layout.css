@@ -810,3 +810,35 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-017 .email-receipt {
+	margin: 100px auto;
+}
+
+.ui-017 .right-email-receipt {
+	min-height: 500px;
+	padding: 30px;
+}
+.ui-017 .left-email-receipt {
+	min-height: 500px;
+}
+.ui-017 .left-email-receipt p {
+	top: 260px;
+}
+.ui-017 .right-email-receipt hr {
+	height: 1px !important;
+	background-color: #fff !important;
+	border:none !important;
+}
+.ui-017 .right-email-receipt p {
+	line-height: 60px;
+}
+.ui-017 .right-email-receipt .total-p {
+	bottom: 170px;
+	border-top: 1px solid #ffffff;
+	width: 430px;
+	padding-top: 10px;
+}
+.ui-017 .right-email-receipt .receipt-title {
+	border-bottom: 1px solid #fff;
+	padding-bottom: 20px;
+}

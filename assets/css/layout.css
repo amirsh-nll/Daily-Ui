@@ -842,3 +842,12 @@ div {
 	border-bottom: 1px solid #fff;
 	padding-bottom: 20px;
 }
+
+
+/* UI-018 */
+.ui-018 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

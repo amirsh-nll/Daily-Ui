@@ -909,3 +909,12 @@ div {
 .ui-018 .copyright {
 	margin-top: -130px;
 }
+
+
+/* UI-019 */
+.ui-019 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}

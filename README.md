@@ -33,7 +33,7 @@ Daily Ui Challenge (100)
 15. On/Off Switch					✓
 16. Pop-Up / Overlay				✓
 17. Email Receipt					✓
-18. Analytics Chart
+18. Analytics Chart					✓
 19. Leaderboard
 20. Location Tracker
 21. Home Monitoring Dashboard

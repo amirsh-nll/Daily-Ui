@@ -851,3 +851,61 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-018 .my-chart {
+	border:1px solid #c0392b;
+	border-radius: 25px;
+	padding: 0;
+	margin: 150px auto !important;
+}
+.ui-018 .my-chart .chart-bar {
+	margin:20px 0;
+}
+.ui-018 .my-chart .chart-bar .chart-bar-item {
+	margin: 0 15px;
+}
+.ui-018 .my-chart .chart-bar-1 {
+	height: 100px;
+	top: 100px;
+	margin-right: 21px !important;
+}
+.ui-018 .my-chart .chart-bar-2 {
+	height: 140px;
+	top: 60px;
+}
+.ui-018 .my-chart .chart-bar-3 {
+	height: 10px;
+	top: 190px;
+}
+.ui-018 .my-chart .chart-bar-4 {
+	height: 30px;
+	top: 170px;
+	margin-right: 5px !important;
+}
+.ui-018 .my-chart .chart-bar-5 {
+	height: 160px;
+	top: 40px;
+	margin-right: 30px !important;
+}
+.ui-018 .my-chart .chart-bar-6 {
+	height: 80px;
+	top: 120px;
+	margin-right: 24px !important;
+}
+.ui-018 .my-chart .chart-bar-7 {
+	height: 110px;
+	top: 90px;
+	margin-right: 12px !important;
+}
+.ui-018 .my-chart .header-chart {
+	padding: 10px;
+	border-top-right-radius: 25px;
+	border-top-left-radius: 25px;
+}
+.ui-018 .my-chart .chart-text p {
+	padding: 7px;
+	border-top: 1px solid #c0392b;
+	margin-top: 20px;
+}
+.ui-018 .copyright {
+	margin-top: -130px;
+}

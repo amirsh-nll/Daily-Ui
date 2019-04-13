@@ -918,6 +918,13 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-019 .container {
+	margin: 100px auto;
+}
+.ui-019 .leaderboard {
+	padding: 50px;
+	border-radius: 15px;
+}
 
 
 /* UI-020 */

@@ -958,8 +958,18 @@ div {
 	margin: 100px auto !important;
 }
 
+
 /* UI-021 */
 .ui-021 {
+	width: 100%;
+	height: 100%;
+	margin : 0;
+	padding: 0;
+}
+
+
+/* UI-022 */
+.ui-022 {
 	width: 100%;
 	height: 100%;
 	margin : 0;

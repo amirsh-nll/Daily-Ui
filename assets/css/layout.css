@@ -934,7 +934,29 @@ div {
 	margin : 0;
 	padding: 0;
 }
-
+.ui-020 .sidebar-right {
+	background-image: url(../img/maps-020.png);
+	background-size: cover;
+	min-height: 400px;
+	box-shadow: 0 0 20px #aaa;
+}
+.ui-020 .sidebar-left {
+	min-height: 400px;
+	padding: 20px;
+	box-shadow: 0 0 20px #aaa;
+}
+.ui-020 .sidebar-left .arrow {
+	padding-top: 12px;
+	cursor: pointer;
+}
+.ui-020 .sidebar-left .circle {
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+}
+.ui-020 .container {
+	margin: 100px auto !important;
+}
 
 /* UI-021 */
 .ui-021 {

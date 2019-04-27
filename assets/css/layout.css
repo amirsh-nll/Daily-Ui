@@ -1315,14 +1315,13 @@ div
 }
 .ui-022 .container
 {
-	margin: 200px auto;
+	margin: 200px auto 0 auto !important;
 }
 .ui-022 .search-input
 {
 	border-radius: 25px;
 	outline: none;
 	padding: 20px;
-	border: none;
 	width: 50%;
 	letter-spacing: 3px;
 }

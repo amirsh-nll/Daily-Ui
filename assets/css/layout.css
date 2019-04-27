@@ -966,6 +966,22 @@ div {
 	margin : 0;
 	padding: 0;
 }
+.ui-021 .container {
+	margin: 50px auto !important;
+}
+.ui-021 .header {
+	border-radius: 25px;
+	padding: 20px;
+}
+.ui-021 .monitor-box {
+	padding: 20px;
+	border-radius: 25px;
+}
+.ui-021 .navbar li {
+	margin-top: 20px !important;
+	margin-right: 30px;
+	cursor: pointer;
+}
 
 
 /* UI-022 */

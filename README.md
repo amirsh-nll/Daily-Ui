@@ -36,7 +36,7 @@ Daily Ui Challenge (100)
 18. Analytics Chart					✓
 19. Leaderboard						✓
 20. Location Tracker				✓
-21. Home Monitoring Dashboard
+21. Home Monitoring Dashboard		✓
 22. Search
 23. Onboarding
 24. Boarding Pass

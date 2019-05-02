@@ -38,7 +38,7 @@ Daily Ui Challenge (100)
 20. Location Tracker				✓
 21. Home Monitoring Dashboard		✓
 22. Search							✓
-23. Onboarding
+23. Onboarding						✓
 24. Boarding Pass
 25. TV App
 26. Subscribe

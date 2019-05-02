@@ -1338,3 +1338,31 @@ div
 	margin:0;
 	padding:0
 }
+.ui-023 .container
+{
+	margin: 100px auto !important;
+}
+.ui-023 .container h1
+{
+	padding-bottom: 20px;
+	border-bottom: 3px solid #16a085;
+}
+.ui-023 .container .float-left p
+{
+	border-radius: 100%;
+	border:3px solid #16a085;
+	padding: 20px 30px;
+}
+.ui-023 .container .float-right p
+{
+	padding-top: 20px;
+}
+.ui-023 .container .copyright
+{
+	margin-top: 50px !important;
+}
+.ui-023 .container .copyright p
+{
+	padding-top: 20px;
+	border-top: 1px solid #16a085;
+}

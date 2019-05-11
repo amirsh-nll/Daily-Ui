@@ -1374,6 +1374,13 @@ div
 	margin:0;
 	padding:0
 }
+.ui-024 .pass-box {
+	border-radius: 25px;
+	margin: 200px auto !important;
+	padding: 20px;
+	box-sizing: border-box;
+	box-shadow: 0 0 100px #2c3e50;
+}
 
 .ui-025
 {

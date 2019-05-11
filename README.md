@@ -40,7 +40,7 @@ Daily Ui Challenge (100)
 22. Search							✓
 23. Onboarding						✓
 24. Boarding Pass					✓
-25. TV App
+25. TV App 							✓
 26. Subscribe
 27. Dropdown
 28. Contact Us

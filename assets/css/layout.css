@@ -1374,7 +1374,8 @@ div
 	margin:0;
 	padding:0
 }
-.ui-024 .pass-box {
+.ui-024 .pass-box 
+{
 	border-radius: 25px;
 	margin: 200px auto !important;
 	padding: 20px;
@@ -1388,4 +1389,35 @@ div
 	height:100%;
 	margin:0;
 	padding:0
+}
+.ui-025 .header 
+{
+	margin-top: 50px;
+}
+.ui-025 .menu 
+{
+	margin: 70px auto !important;
+}
+.ui-025 .menu ul 
+{
+	margin: 0;
+	padding: 0;
+}
+.ui-025 .header .navbar-box 
+{
+	padding-top: 60px;
+}
+.ui-025 .navbar li 
+{
+	margin-left: 50px;
+}
+.ui-025 .main img
+{
+	z-index: 0;
+}
+.ui-025 .main img:hover
+{
+	width: 250px;
+	height: 350px;
+	z-index: 1;
 }

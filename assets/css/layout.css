@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
-/* Optimise : Sat, 12 May 2019 00:08:51 */
+/* Optimise : Sat, 14 May 2019 00:02:11 */
+
 html,body {
 margin:0;
 padding:0;
@@ -1222,40 +1223,45 @@ width:100%;
 height:100%;
 margin:0;
 padding:0;
-overflow-y:hidden;
+overflow-y:hidden
 }
+
 .ui-026 .copyright {
-	padding-top: 200px;
+padding-top:200px
 }
+
 .ui-026 .subscribe-box {
-	background-image: url(../img/paper-026.png);
-	background-size: cover;
-	min-height: 500px;
-	bottom: 0;
-	background-position: center;
-	left: 0;
-	right: 0;
-	padding-top: 100px;
+background-image:url(../img/paper-026.png);
+background-size:cover;
+min-height:500px;
+bottom:0;
+background-position:center;
+left:0;
+right:0;
+padding-top:100px
 }
+
 .ui-026 .subscribe-box h1 {
-	letter-spacing: 5px;
+letter-spacing:5px
 }
+
 .ui-026 .subscribe-box input[type="text"] {
-	border-radius: 25px;
-	border:#efefef;
-	padding: 20px;
-	min-width: 300px;
-	outline: none;
-	margin: 50px auto !important;
-	box-shadow: 0 0 25px #27ae60;
+border-radius:25px;
+border:#efefef;
+padding:20px;
+min-width:300px;
+outline:none;
+margin:50px auto!important;
+box-shadow:0 0 25px #27ae60
 }
+
 .ui-026 .subscribe-box input[type="submit"] {
-	border-radius: 25px;
-	border:#efefef;
-	padding: 20px;
-	min-width: 150px;
-	margin: 30px auto !important;
-	box-shadow: 0 0 25px #27ae60;
+border-radius:25px;
+border:#efefef;
+padding:20px;
+min-width:150px;
+margin:30px auto!important;
+box-shadow:0 0 25px #27ae60
 }
 
 .ui-027 {

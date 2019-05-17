@@ -1,6 +1,7 @@
+/* Optimise : Sat, 18 May 2019 00:07:26 */
+
 @charset "UTF-8";
 
-/* Optimise : Sat, 12 May 2019 00:07:26 */
 .container {
 width:100%;
 padding:0 20px;
@@ -145,11 +146,11 @@ border:none!important
 }
 
 .v-hidden {
-	visibility: hidden !important;
+visibility:hidden!important
 }
 
 .v-visible {
-	visibility: visible !important;
+visibility:visible!important
 }
 
 .navbar {

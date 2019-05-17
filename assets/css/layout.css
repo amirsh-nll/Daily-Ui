@@ -1270,10 +1270,53 @@ height:100%;
 margin:0;
 padding:0
 }
+.ui-027 .button-dropdown {
+	border-radius: 100%;
+	padding: 20px;
+	margin-top: 20px;
+}
+.ui-027 .menu {
+	padding: 20px;
+	border-radius: 25px;
+	margin: 30px;
+	top: 30px;
+}
+.ui-027 .menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	line-height: 50px;
+}
+.ui-027 .copyright {
+	border-top: 1px solid #000;
+	padding-top: 10px;
+	margin-top: 250px;
+}
 
 .ui-028 {
 width:100%;
 height:100%;
 margin:0;
 padding:0
+}
+.ui-028 .contact-box .container {
+	margin: 100px auto !important;
+	padding: 50px 0px;
+	border-radius: 50px;
+	box-shadow: 0 0 1px #e74c3c
+}
+.ui-028 .contact-box td {
+	padding-bottom: 30px;
+}
+.ui-028 .contact-box input[type="text"], .ui-028 .contact-box textarea {
+	width: 100%;
+	outline: none;
+	border-radius: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	border:1px solid #e74c3c;
+}
+.ui-028 .contact-box input[type="Submit"] {
+	padding: 20px 50px;
+	border-radius: 10px;
 }

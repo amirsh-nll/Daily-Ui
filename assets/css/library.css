@@ -144,6 +144,14 @@ position:absolute
 border:none!important
 }
 
+.v-hidden {
+	visibility: hidden !important;
+}
+
+.v-visible {
+	visibility: visible !important;
+}
+
 .navbar {
 display:inline-block
 }

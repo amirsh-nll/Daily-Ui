@@ -42,8 +42,8 @@ Daily Ui Challenge (100)
 24. Boarding Pass					✓
 25. TV App 							✓
 26. Subscribe						✓
-27. Dropdown
-28. Contact Us
+27. Dropdown						✓
+28. Contact Us 						✓
 29. Map
 30. Pricing
 31. File Upload

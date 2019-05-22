@@ -1,4 +1,4 @@
-/* Optimise : Sat, 18 May 2019 00:02:11 */
+/* Optimise : Sat, 23 May 2019 00:02:11 */
 
 @charset "UTF-8";
 
@@ -1335,24 +1335,29 @@ height:100%;
 margin:0;
 padding:0
 }
+
 .ui-029 .map-box {
-	margin: 100px auto !important
+margin:100px auto!important
 }
+
 .ui-029 .map-box .sidebar-right {
-	padding: 20px 20px 20px 0 !important;
+padding:20px 20px 20px 0 !important
 }
+
 .ui-029 .map-box .sidebar-right .maps {
-	background-image: url(../img/maps-029.png);
-	min-height: 500px;
-	background-size: cover;
+background-image:url(../img/maps-029.png);
+min-height:500px;
+background-size:cover
 }
+
 .ui-029 .map-box .sidebar-left {
-	padding: 50px;
+padding:50px
 }
+
 .ui-029 .map-box .sidebar-left .border-boxed {
-	border-left: 10px solid #3498db;
-	padding-left: 20px;
-	margin-bottom: 150px;
+border-left:10px solid #3498db;
+padding-left:20px;
+margin-bottom:150px
 }
 
 .ui-030 {

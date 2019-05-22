@@ -44,7 +44,7 @@ Daily Ui Challenge (100)
 26. Subscribe						✓
 27. Dropdown						✓
 28. Contact Us 						✓
-29. Map
+29. Map 							✓
 30. Pricing
 31. File Upload
 32. Crowdfunding Campaign

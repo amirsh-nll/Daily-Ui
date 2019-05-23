@@ -1366,3 +1366,21 @@ height:100%;
 margin:0;
 padding:0
 }
+.ui-030 .pricing-box {
+	margin: 100px auto !important;
+}
+.ui-030 .pricing-box .right-side {
+	border-radius: 15px;
+	padding: 50px 0px;
+	box-shadow: 0 0 10px #bdc3c7;
+}
+.ui-030 .pricing-box .left-side {
+	border-radius: 15px;
+	padding: 50px 0px;
+	box-shadow: 0 0 100px #bdc3c7;
+}
+.ui-030 .pricing-box .buy-button {
+	padding: 10px 40px;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #bdc3c7;
+}

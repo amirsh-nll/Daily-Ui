@@ -46,7 +46,7 @@ Daily Ui Challenge (100)
 28. Contact Us 						✓
 29. Map 							✓
 30. Pricing 						✓
-31. File Upload
+31. File Upload						✓
 32. Crowdfunding Campaign
 33. Customize Product
 34. Car Interface

@@ -1391,3 +1391,11 @@ height:100%;
 margin:0;
 padding:0
 }
+.ui-031 .upload-box {
+	margin: 200px auto !important
+}
+.ui-031 .upload-box .upload-button {
+	border-radius: 100%;
+	padding: 30px;
+	box-shadow: 5px 5px 50px #c0392b;
+}

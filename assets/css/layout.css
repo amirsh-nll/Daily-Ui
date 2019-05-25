@@ -1,4 +1,4 @@
-/* Optimise : Sat, 23 May 2019 00:02:11 */
+/* Optimise : Sat, 26 May 2019 00:02:11 */
 
 @charset "UTF-8";
 
@@ -1366,23 +1366,27 @@ height:100%;
 margin:0;
 padding:0
 }
+
 .ui-030 .pricing-box {
-	margin: 100px auto !important;
+margin:100px auto!important
 }
+
 .ui-030 .pricing-box .right-side {
-	border-radius: 15px;
-	padding: 50px 0px;
-	box-shadow: 0 0 10px #bdc3c7;
+border-radius:15px;
+padding:50px 0;
+box-shadow:0 0 10px #bdc3c7
 }
+
 .ui-030 .pricing-box .left-side {
-	border-radius: 15px;
-	padding: 50px 0px;
-	box-shadow: 0 0 100px #bdc3c7;
+border-radius:15px;
+padding:50px 0;
+box-shadow:0 0 100px #bdc3c7
 }
+
 .ui-030 .pricing-box .buy-button {
-	padding: 10px 40px;
-	border-radius: 15px;
-	box-shadow: 0 0 20px #bdc3c7;
+padding:10px 40px;
+border-radius:15px;
+box-shadow:0 0 20px #bdc3c7
 }
 
 .ui-031 {
@@ -1391,11 +1395,13 @@ height:100%;
 margin:0;
 padding:0
 }
+
 .ui-031 .upload-box {
-	margin: 200px auto !important
+margin:200px auto!important
 }
+
 .ui-031 .upload-box .upload-button {
-	border-radius: 100%;
-	padding: 30px;
-	box-shadow: 5px 5px 50px #c0392b;
+border-radius:100%;
+padding:30px;
+box-shadow:5px 5px 50px #c0392b
 }

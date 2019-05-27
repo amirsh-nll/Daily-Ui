@@ -129,6 +129,10 @@ display:inline-block!important
 display:none
 }
 
+.d-flex {
+display:flex
+}
+
 .m-auto {
 margin:auto!important
 }

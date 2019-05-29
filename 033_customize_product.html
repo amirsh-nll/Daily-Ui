@@ -8,12 +8,52 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/krub-font.css" />
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-033.png">
 	<link rel="stylesheet" href="assets/lib/awesome/css/all.css">
+	<script type="text/javascript">
+		function change_color(color) {
+			if(color===1)
+				document.getElementById("product-img").src = "assets/img/blue-033.png";
+			else if(color===2)
+				document.getElementById("product-img").src = "assets/img/red-033.png";
+			else if(color===3)
+				document.getElementById("product-img").src = "assets/img/green-033.png";
+			else
+				document.getElementById("product-img").src = "assets/img/blue-033.png";
+		}
+	</script>
 </head>
-<body>
+<body class="sun-flower-bg">
 
 	<div class="ui-033 left-to-right krub-regular d-block">
 
 		<!-- Page Content -->
+		<div class="product-box container m-auto">
+			<div class="row">
+				<div class="float-left product-image-box col-6">
+					<div class="img-box" id="img-box">
+						<img src="assets/img/blue-033.png" class="img-fluid" id="product-img" />
+					</div>
+				</div>
+				<div class="float-right product-customize col-6">
+					<h2 class="display-3">Choose Color</h2>
+					<form action="" method="get">
+						<div class="colors-items">
+							<div class="float-left color-item peter-river-bg c-pointer" onclick="change_color(1)"></div>
+							<div class="float-left color-item pomegranate-bg c-pointer" onclick="change_color(2)"></div>
+							<div class="float-left color-item nephritis-bg c-pointer" onclick="change_color(3)"></div>
+							<div class="clearfix"></div>
+						</div>
+						<input type="submit" name="continue" value="Continue" class="c-pointer b-none continue-buttun wet-asphalt-bg text-light" />
+					</form>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<br /><br /><br />
+			<div class="row">
+				<div class="col-12 text-center">
+					<p class="display-1-2 text-center">&copy; 2019 Amir Shokri.</p>
+				</div>
+			</div>
+		</div>
 
 	</div>
 

@@ -1,4 +1,4 @@
-/* Optimise : Sat, 26 May 2019 00:02:11 */
+/* Optimise : Sat, 1 June 2019 00:02:11 */
 
 @charset "UTF-8";
 
@@ -1437,39 +1437,39 @@ width:100%;
 height:100%;
 margin:0;
 padding:0;
-overflow-y: hidden;
+overflow-y:hidden
 }
 
 .ui-033 .product-box {
-	margin: 100px auto !important;
+margin:100px auto!important
 }
 
 .ui-033 .product-box .product-image-box {
-	padding: 30px;
+padding:30px
 }
 
 .ui-033 .product-box .product-customize {
-	padding: 50px;
+padding:50px
 }
 
 .ui-033 .product-box .product-customize .continue-buttun {
-	border-radius: 25px;
-	box-shadow: 0 0 10px #555;
-	padding: 10px 40px;
+border-radius:25px;
+box-shadow:0 0 10px #555;
+padding:10px 40px
 }
 
 .ui-033 .product-box .product-customize .colors-items {
-	margin: 50px 0 !important;
+margin:50px 0!important
 }
 
 .ui-033 .product-box .product-customize .colors-items .color-item {
-	border-radius: 100%;
-	width: 40px;
-	height: 40px;
-	border:2px solid #fff;
-	padding: 10px;
-	margin-right: 10px;
-	box-shadow: 0 0 20px #555;
+border-radius:100%;
+width:40px;
+height:40px;
+border:2px solid #fff;
+padding:10px;
+margin-right:10px;
+box-shadow:0 0 20px #555
 }
 
 .ui-034 {

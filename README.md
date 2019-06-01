@@ -49,7 +49,7 @@ Daily Ui Challenge (100)
 31. File Upload						✓
 32. Crowdfunding Campaign			✓
 33. Customize Product				✓
-34. Car Interface
+34. Car Interface					✓
 35. Blog Post
 36. Special Offer
 37. Weather

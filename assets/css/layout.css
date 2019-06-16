@@ -1503,6 +1503,12 @@ margin:0;
 padding:0
 }
 
+.ui-035 .post {
+	padding: 25px;
+	line-height: 30px;
+	margin: 30px auto;
+}
+
 .ui-036 {
 width:100%;
 height:100%;

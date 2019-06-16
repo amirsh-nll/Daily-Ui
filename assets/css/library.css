@@ -157,6 +157,10 @@ visibility:hidden!important
 visibility:visible!important
 }
 
+.ls-none {
+	list-style: none !important;
+}
+
 .navbar {
 display:inline-block
 }
@@ -181,6 +185,15 @@ direction:ltr
 max-width:100%;
 height:auto
 }
+
+.text-justify {
+	text-align: justify !important;
+}
+
+.text-justify-all {
+	text-align: justify-all !important;
+}
+
 
 .text-center {
 text-align:center

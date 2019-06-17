@@ -49,8 +49,8 @@ Daily Ui Challenge (100)
 32. Crowdfunding Campaign			✓
 33. Customize Product				✓
 34. Car Interface					✓
-35. Blog Post
-36. Special Offer
+35. Blog Post						✓
+36. Special Offer					✓
 37. Weather
 38. Calendar
 39. Testimonials

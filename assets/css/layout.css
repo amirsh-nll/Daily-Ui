@@ -1516,6 +1516,20 @@ margin:0;
 padding:0
 }
 
+.ui-036 .special-box {
+padding: 20px;
+border:10px solid #fff;
+border-radius: 5px;
+border-top-right-radius: 50px;
+box-shadow: 0 0 25px #bdc3c7;
+margin: 100px auto 0 auto !important
+}
+.ui-036 .special-box form input[type="submit"] {
+	padding: 10px 30px;
+	outline: none;
+	border-radius: 5px;
+}
+
 .ui-037 {
 width:100%;
 height:100%;

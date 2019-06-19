@@ -51,7 +51,7 @@ Daily Ui Challenge (100)
 34. Car Interface					✓
 35. Blog Post						✓
 36. Special Offer					✓
-37. Weather
+37. Weather							✓
 38. Calendar
 39. Testimonials
 40. Recipe

@@ -1,4 +1,4 @@
-/* Optimise : Sat, 17 June 2019 00:02:11 */
+/* Optimise : Fri, 21 June 2019 18:12:34 */
 
 @charset "UTF-8";
 
@@ -1517,17 +1517,18 @@ padding:0
 }
 
 .ui-036 .special-box {
-padding: 20px;
+padding:20px;
 border:10px solid #fff;
-border-radius: 5px;
-border-top-right-radius: 50px;
-box-shadow: 0 0 25px #bdc3c7;
-margin: 100px auto 0 auto !important
+border-radius:5px;
+border-top-right-radius:50px;
+box-shadow:0 0 25px #bdc3c7;
+margin:100px auto 0!important
 }
+
 .ui-036 .special-box form input[type="submit"] {
-	padding: 10px 30px;
-	outline: none;
-	border-radius: 5px;
+padding:10px 30px;
+outline:none;
+border-radius:5px
 }
 
 .ui-037 {
@@ -1538,24 +1539,25 @@ padding:0
 }
 
 .ui-037 .weather-box .col-3 {
-	border-radius: 30px;
-	margin: 100px auto !important;
-	overflow:hidden;
-	box-shadow: 0 0 10px #2980b9;
+border-radius:30px;
+margin:100px auto!important;
+overflow:hidden;
+box-shadow:0 0 10px #2980b9
 }
 
 .ui-037 .weather-box .weather-box-top {
-	background: url(../img/background-037.png) no-repeat right center #3498db;
-	min-height: 300px;
+background:url(../img/background-037.png) no-repeat right center #3498db;
+min-height:300px
 }
 
 .ui-037 .weather-box .weather-box-bottom {
-	padding: 20px;
-	line-height: 30px;
+padding:20px;
+line-height:30px
 }
+
 .ui-037 .weather-box .weather-box-top .weather-location {
-	padding: 80px 30px;
-	color: #dddcdd;
+padding:80px 30px;
+color:#dddcdd
 }
 
 .ui-038 {

@@ -52,7 +52,7 @@ Daily Ui Challenge (100)
 35. Blog Post						✓
 36. Special Offer					✓
 37. Weather							✓
-38. Calendar
+38. Calendar						✓
 39. Testimonials
 40. Recipe
 41. Workout Tracker

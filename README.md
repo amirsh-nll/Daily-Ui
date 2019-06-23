@@ -53,7 +53,7 @@ Daily Ui Challenge (100)
 36. Special Offer					✓
 37. Weather							✓
 38. Calendar						✓
-39. Testimonials
+39. Testimonials					✓
 40. Recipe
 41. Workout Tracker
 42. ToDo List

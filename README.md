@@ -56,7 +56,7 @@ Daily Ui Challenge (100)
 39. Testimonials					✓
 40. Recipe							✓
 41. Workout Tracker					✓
-42. ToDo List
+42. ToDo List 						✓
 43. Food/Drink Menu
 44. Favorites
 45. Info Card

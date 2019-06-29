@@ -8,12 +8,42 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/krub-font.css" />
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-044.png">
 	<link rel="stylesheet" href="assets/lib/awesome/css/all.css">
+
+	<script type="text/javascript">
+		var menu_state = 0;
+		function change_view() {
+			if(menu_state==0) {
+				document.getElementById("favorite-off").classList.remove("d-block");
+				document.getElementById("favorite-off").classList.add("d-none");
+				document.getElementById("favorite-on").classList.remove("d-none");
+				document.getElementById("favorite-on").classList.add("d-block");
+				menu_state = 1;
+			} else {
+				document.getElementById("favorite-off").classList.remove("d-none");
+				document.getElementById("favorite-off").classList.add("d-block");
+				document.getElementById("favorite-on").classList.remove("d-block");
+				document.getElementById("favorite-on").classList.add("d-none");
+				menu_state = 0;
+			}
+			
+		}
+	</script>
 </head>
-<body>
+<body class="clouds-bg">
 
 	<div class="ui-044 left-to-right krub-regular d-block">
 
 		<!-- Page Content -->
+		<div class="container d-flex">
+			<div class="row">
+				<div class="col-12 text-center">
+					<div class="favorite-box display-8">
+						<div id="favorite-off" onclick="change_view()" class="d-block c-pointer"><span class="fas fa fa-3x fa-heart text-dark"></span></div>
+						<div id="favorite-on" onclick="change_view()" class="d-none c-pointer"><span class="fas fa fa-3x fa-heart text-red"></span></div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 	</div>
 

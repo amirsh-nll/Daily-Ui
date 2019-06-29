@@ -1746,6 +1746,10 @@ margin:0;
 padding:0
 }
 
+.ui-044 .favorite-box {
+	margin: 150px auto !important;
+}
+
 .ui-045 {
 width:100%;
 height:100%;

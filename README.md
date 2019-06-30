@@ -59,7 +59,7 @@ Daily Ui Challenge (100)
 42. ToDo List 						✓
 43. Food/Drink Menu					✓
 44. Favorites 						✓
-45. Info Card
+45. Info Card 						✓
 46. Invoice
 47. Activity Feed
 48. Coming Soon

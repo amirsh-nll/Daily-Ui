@@ -1757,6 +1757,19 @@ margin:0;
 padding:0
 }
 
+.ui-045 .info-card-box {
+	margin: 100px auto !important;
+}
+
+.ui-045 .info-card-box .info-card-item {
+	box-shadow: 0 0 20px #7f8c8d;
+	min-height: 500px;
+}
+
+.ui-045 .info-card-box .data-box {
+	padding: 30px 50px;
+}
+
 .ui-046 {
 width:100%;
 height:100%;

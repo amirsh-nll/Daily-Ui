@@ -1777,6 +1777,30 @@ margin:0;
 padding:0
 }
 
+.ui-046 .invoice-box {
+	margin: 150px auto !important;
+}
+.ui-046 .invoice-box h1 {
+	letter-spacing: 15px;
+	margin-bottom: -8px;
+
+}
+.ui-046 .col-5 {
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 15px #7f8c8d;
+}
+.ui-046 .invoice-box td {
+	padding: 5px;
+}
+.ui-046 .invoice-box form {
+	margin-top: -20px;
+}
+.ui-046 .invoice-box .pay-key {
+	padding: 20px 30px;
+	border-radius: 25px;
+	box-shadow: 0 0 10px #3498db;
+}
 .ui-047 {
 width:100%;
 height:100%;

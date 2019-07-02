@@ -1,4 +1,4 @@
-/* Optimise : Thu, 27 June 2019 10:57:11 */
+/* Optimise : Thu, 2 July 2019 09:33:31 */
 
 @charset "UTF-8";
 
@@ -1728,7 +1728,7 @@ padding:0
 }
 
 .ui-043 .food-menu-box {
-	margin: 70px auto !important;
+margin:70px auto!important
 }
 
 .ui-043 .food-menu-box .main-menu {
@@ -1736,7 +1736,7 @@ border-radius:5px;
 overflow:hidden;
 box-shadow:0 0 25px #ccc;
 padding:20px;
-min-height: 500px;
+min-height:500px
 }
 
 .ui-044 {
@@ -1747,7 +1747,7 @@ padding:0
 }
 
 .ui-044 .favorite-box {
-	margin: 150px auto !important;
+margin:150px auto!important
 }
 
 .ui-045 {
@@ -1758,16 +1758,16 @@ padding:0
 }
 
 .ui-045 .info-card-box {
-	margin: 100px auto !important;
+margin:100px auto!important
 }
 
 .ui-045 .info-card-box .info-card-item {
-	box-shadow: 0 0 20px #7f8c8d;
-	min-height: 500px;
+box-shadow:0 0 20px #7f8c8d;
+min-height:500px
 }
 
 .ui-045 .info-card-box .data-box {
-	padding: 30px 50px;
+padding:30px 50px
 }
 
 .ui-046 {
@@ -1778,29 +1778,34 @@ padding:0
 }
 
 .ui-046 .invoice-box {
-	margin: 150px auto !important;
+margin:150px auto!important
 }
-.ui-046 .invoice-box h1 {
-	letter-spacing: 15px;
-	margin-bottom: -8px;
 
+.ui-046 .invoice-box h1 {
+letter-spacing:15px;
+margin-bottom:-8px
 }
+
 .ui-046 .col-5 {
-	padding: 20px;
-	border-radius: 10px;
-	box-shadow: 0 0 15px #7f8c8d;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 15px #7f8c8d
 }
+
 .ui-046 .invoice-box td {
-	padding: 5px;
+padding:5px
 }
+
 .ui-046 .invoice-box form {
-	margin-top: -20px;
+margin-top:-20px
 }
+
 .ui-046 .invoice-box .pay-key {
-	padding: 20px 30px;
-	border-radius: 25px;
-	box-shadow: 0 0 10px #3498db;
+padding:20px 30px;
+border-radius:25px;
+box-shadow:0 0 10px #3498db
 }
+
 .ui-047 {
 width:100%;
 height:100%;

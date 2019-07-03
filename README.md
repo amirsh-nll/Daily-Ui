@@ -61,7 +61,7 @@ Daily Ui Challenge (100)
 44. Favorites 						✓
 45. Info Card 						✓
 46. Invoice							✓
-47. Activity Feed
+47. Activity Feed					✓
 48. Coming Soon
 49. Notifications
 50. Job Listing

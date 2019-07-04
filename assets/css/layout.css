@@ -1839,6 +1839,14 @@ margin:0;
 padding:0
 }
 
+.ui-048 .container {
+	margin: 100px auto !important;
+}
+
+.ui-048 h1 {
+	letter-spacing: 10px;
+}
+
 .ui-049 {
 width:100%;
 height:100%;

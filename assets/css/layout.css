@@ -1,4 +1,4 @@
-/* Optimise : Thu, 2 July 2019 09:33:31 */
+/* Optimise : Fri, 5 July 2019 10:33:31 */
 
 @charset "UTF-8";
 
@@ -1814,22 +1814,21 @@ padding:0
 }
 
 .ui-047 .activity-box {
-	margin:100px auto !important;
-
+margin:100px auto!important
 }
 
 .ui-047 .activity-box .activity-list {
-	min-height: 400px;
-	box-shadow: 0 0 15px #ecf0f1;
-	padding: 20px;
-	border-radius: 15px;
+min-height:400px;
+box-shadow:0 0 15px #ecf0f1;
+padding:20px;
+border-radius:15px
 }
 
 .ui-047 .activity-box .activity-list .activity-count {
-	border-radius: 100%;
-	padding: 5px;
-	width: 100px
-	height: 100px;
+border-radius:100%;
+padding:5px;
+width:100px;
+height:100px
 }
 
 .ui-048 {
@@ -1840,11 +1839,11 @@ padding:0
 }
 
 .ui-048 .container {
-	margin: 100px auto !important;
+margin:100px auto!important
 }
 
 .ui-048 h1 {
-	letter-spacing: 10px;
+letter-spacing:10px
 }
 
 .ui-049 {

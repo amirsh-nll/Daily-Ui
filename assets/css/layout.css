@@ -1852,6 +1852,16 @@ height:100%;
 margin:0;
 padding:0
 }
+.ui-049 .notification {
+	bottom: 0 !important;
+	right: 0 !important;
+	margin: 20px;
+}
+.ui-049 .notification-box {
+	padding: 20px;
+	border-radius: 25px;
+	margin-bottom: 10px;
+}
 
 .ui-050 {
 width:100%;

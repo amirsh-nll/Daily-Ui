@@ -64,7 +64,7 @@ Daily Ui Challenge (100)
 47. Activity Feed					✓
 48. Coming Soon 					✓
 49. Notifications 					✓
-50. Job Listing
+50. Job Listing						✓
 51. Press Page
 52. Logo
 53. Header Navigation

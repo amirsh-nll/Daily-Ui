@@ -65,7 +65,7 @@ Daily Ui Challenge (100)
 48. Coming Soon 					✓
 49. Notifications 					✓
 50. Job Listing						✓
-51. Press Page
+51. Press Page 						✓
 52. Logo
 53. Header Navigation
 54. Confirm Reservation

@@ -1940,6 +1940,28 @@ margin:0;
 padding:0
 }
 
+.ui-053 .menu-box {
+	width: 100%;
+	margin: 200px auto;
+}
+
+.ui-053 .menu-box .menu {
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 15px;
+	box-shadow: 0 0 20px #bdc3c7;
+}
+
+.ui-053 .menu-box .menu ul, .ui-053 .menu-box .menu li {
+	display: inline-block;
+}
+
+.ui-053 .menu-box .menu li {
+	margin-left: 20px;
+	width: 100px;
+	text-shadow: 0 0 2px #bdc3c7;
+}
+
 .ui-054 {
 width:100%;
 height:100%;

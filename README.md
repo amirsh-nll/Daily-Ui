@@ -68,7 +68,7 @@ Daily Ui Challenge (100)
 51. Press Page 						✓
 52. Logo							✓
 53. Header Navigation 				✓
-54. Confirm Reservation
+54. Confirm Reservation 			✓
 55. Icon Set
 56. Breadcrumbs
 57. Video Player

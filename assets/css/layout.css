@@ -2000,6 +2000,14 @@ margin:0;
 padding:0
 }
 
+.ui-055 .container {
+	margin: 100px auto !important;
+}
+
+.ui-055 .icons p {
+	padding: 50px;
+}
+
 .ui-056 {
 width:100%;
 height:100%;

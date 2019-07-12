@@ -69,7 +69,7 @@ Daily Ui Challenge (100)
 52. Logo							✓
 53. Header Navigation 				✓
 54. Confirm Reservation 			✓
-55. Icon Set
+55. Icon Set 						✓
 56. Breadcrumbs
 57. Video Player
 58. Shopping Cart

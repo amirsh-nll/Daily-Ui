@@ -1,4 +1,4 @@
-/* Optimise : Thu, 11 July 2019 13:13:21 */
+/* Optimise : Thu, 12 July 2019 13:13:21 */
 
 @charset "UTF-8";
 
@@ -2001,11 +2001,11 @@ padding:0
 }
 
 .ui-055 .container {
-	margin: 100px auto !important;
+margin:100px auto!important
 }
 
 .ui-055 .icons p {
-	padding: 50px;
+padding:50px
 }
 
 .ui-056 {

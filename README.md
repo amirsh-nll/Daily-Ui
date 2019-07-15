@@ -71,7 +71,7 @@ Daily Ui Challenge (100)
 54. Confirm Reservation 			✓
 55. Icon Set 						✓
 56. Breadcrumbs 					✓
-57. Video Player
+57. Video Player 					✓
 58. Shopping Cart
 59. Background Pattern
 60. Color Picker

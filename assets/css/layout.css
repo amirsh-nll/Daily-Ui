@@ -2085,11 +2085,26 @@ margin:0;
 padding:0
 }
 
+.ui-058 .card .visa {
+	border-radius: 25px;
+	padding: 20px 30px;
+	margin: 100px auto !important;
+	box-shadow: 0 0 20px #9b59b6;
+}
+
 .ui-059 {
 width:100%;
 height:100%;
 margin:0;
-padding:0
+padding:0;
+background: url(../img/background-059.png);
+background-repeat: all;
+}
+
+.ui-059 .copyright {
+	bottom: 20px;
+	border-left: 40px solid #000;
+	text-indent: 20px;
 }
 
 .ui-060 {

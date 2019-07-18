@@ -72,8 +72,8 @@ Daily Ui Challenge (100)
 55. Icon Set 						✓
 56. Breadcrumbs 					✓
 57. Video Player 					✓
-58. Shopping Cart
-59. Background Pattern
+58. Shopping Cart 					✓
+59. Background Pattern 				✓
 60. Color Picker
 61. Redeem Coupon
 62. Workout of the day

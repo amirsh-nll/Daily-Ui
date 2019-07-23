@@ -2146,11 +2146,27 @@ padding:0
 width:100%;
 height:100%;
 margin:0;
-padding:0;
-width:100%;
-height:100%;
-margin:0;
 padding:0
+}
+
+.ui-061 .redeem-box {
+	overflow: hidden;
+	border-radius: 15px;
+	box-shadow: 0 0 25px #bdc3c7;
+	margin: 100px auto !important;
+}
+
+.ui-061 .redeem-box div {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.ui-061 .redeem-box .redeem-box-content {
+	color: #6a3311;
+}
+
+.ui-061 .redeem-box .redeem-box-button {
+	background-color: #6a3311;
 }
 
 .ui-062 {

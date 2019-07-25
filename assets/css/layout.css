@@ -1,4 +1,4 @@
-/* Optimise : Thu, 20 July 2019 13:13:21 */
+/* Optimise : Thu, 24 July 2019 13:13:21 */
 @charset "UTF-8";
 
 html,body {
@@ -2115,31 +2115,33 @@ padding:0
 }
 
 .ui-060 .colors-pallete {
-	margin: 100px auto 200px auto !important;
+margin:100px auto 200px!important
 }
 
 .ui-060 .colors-pallete .col-3 {
-	max-width: 24% !important;
+max-width:24%!important
 }
 
 .ui-060 .colors-pallete .color-item {
-	padding: 20px;
-	box-shadow: 0 0 10px #bdc3c7;
-	margin: 5px;
-	border-radius: 15px;
+padding:20px;
+box-shadow:0 0 10px #bdc3c7;
+margin:5px;
+border-radius:15px
 }
+
 .ui-060 .colors-pallete .color-item .color-item-preview {
-	border-radius: 15px;
-	width: 50px;
-	height: 50px;
-	margin: 30px auto !important;
+border-radius:15px;
+width:50px;
+height:50px;
+margin:30px auto!important
 }
+
 .ui-060 .colors-pallete .color-item .color-item-data {
-	letter-spacing: 3px;
+letter-spacing:3px
 }
 
 .ui-060 .colors-pallete .copyright {
-	margin-top: 100px;
+margin-top:100px
 }
 
 .ui-061 {
@@ -2150,23 +2152,23 @@ padding:0
 }
 
 .ui-061 .redeem-box {
-	overflow: hidden;
-	border-radius: 15px;
-	box-shadow: 0 0 25px #bdc3c7;
-	margin: 100px auto !important;
+overflow:hidden;
+border-radius:15px;
+box-shadow:0 0 25px #bdc3c7;
+margin:100px auto!important
 }
 
 .ui-061 .redeem-box div {
-	padding: 10px;
-	margin-top: 10px;
+padding:10px;
+margin-top:10px
 }
 
 .ui-061 .redeem-box .redeem-box-content {
-	color: #6a3311;
+color:#6a3311
 }
 
 .ui-061 .redeem-box .redeem-box-button {
-	background-color: #6a3311;
+background-color:#6a3311
 }
 
 .ui-062 {

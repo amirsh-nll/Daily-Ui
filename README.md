@@ -76,7 +76,7 @@ Daily Ui Challenge (100)
 59. Background Pattern 				✓
 60. Color Picker 					✓
 61. Redeem Coupon 					✓
-62. Workout of the day
+62. Workout of the day 				✓
 63. Best of 2019
 64. Select User Type
 65. Notes Widget

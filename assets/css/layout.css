@@ -2178,6 +2178,28 @@ margin:0;
 padding:0
 }
 
+.ui-062 .workout-box {
+	margin: 150px auto !important;
+}
+
+.ui-062 .workout-box .progressbar {
+	height: 3px;
+}
+
+.ui-062 .workout-box .progressbar .progressbar-full,
+.ui-062 .workout-box .progressbar .progressbar-empty {
+	height: 3px;
+	margin-top: 70px;
+}
+
+.ui-062 .workout-box .progressbar .progressbar-full {
+	box-shadow: 0 0 10px #1abc9c;
+}
+
+.ui-062 .workout-box .copyright {
+	margin-top: 150px;
+}
+
 .ui-063 {
 width:100%;
 height:100%;

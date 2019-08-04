@@ -1,4 +1,4 @@
-/* Optimise : Thu, 24 July 2019 13:13:21 */
+/* Optimise : Thu, 4 Aug 2019 13:13:21 */
 @charset "UTF-8";
 
 html,body {
@@ -2179,25 +2179,24 @@ padding:0
 }
 
 .ui-062 .workout-box {
-	margin: 150px auto !important;
+margin:150px auto!important
 }
 
 .ui-062 .workout-box .progressbar {
-	height: 3px;
+height:3px
 }
 
-.ui-062 .workout-box .progressbar .progressbar-full,
-.ui-062 .workout-box .progressbar .progressbar-empty {
-	height: 3px;
-	margin-top: 70px;
+.ui-062 .workout-box .progressbar .progressbar-full,.ui-062 .workout-box .progressbar .progressbar-empty {
+height:3px;
+margin-top:70px
 }
 
 .ui-062 .workout-box .progressbar .progressbar-full {
-	box-shadow: 0 0 10px #1abc9c;
+box-shadow:0 0 10px #1abc9c
 }
 
 .ui-062 .workout-box .copyright {
-	margin-top: 150px;
+margin-top:150px
 }
 
 .ui-063 {

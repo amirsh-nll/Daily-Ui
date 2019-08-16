@@ -79,7 +79,7 @@ Daily Ui Challenge (100)
 62. Workout of the day 				✓
 63. Best of 2019					✓
 64. Select User Type 				✓
-65. Notes Widget
+65. Notes Widget 					✓
 66. Statistics
 67. Hotel Booking
 68. Flight Search

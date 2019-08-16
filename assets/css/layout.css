@@ -2278,6 +2278,53 @@ margin:0;
 padding:0
 }
 
+.ui-066 .statistics-chart {
+box-shadow:0 0 10px #bdc3c7;
+border-radius:10px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right {
+border-left:1px solid #1abc9c
+}
+
+.ui-066 .statistics-chart .statistics-chart-bottom {
+border-top:1px solid #1abc9c
+}
+
+.ui-066 .statistics-chart .statistics-chart-bottom p {
+padding:10px 30px!important;
+letter-spacing:2px
+}
+
+.ui-066 .statistics-chart .statistics-chart-left p {
+letter-spacing:2px;
+padding:10px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right div:nth-child(2) {
+height:100px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right div:nth-child(3) {
+height:90px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right div:nth-child(4) {
+height:150px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right div:nth-child(5) {
+height:200px
+}
+
+.ui-066 .statistics-chart .statistics-chart-right .statistics-chart-bars {
+margin-top:80px;
+margin-bottom:-5px;
+margin-right:55px;
+border-top-right-radius:5px;
+border-top-left-radius:5px
+}
+
 .ui-067 {
 width:100%;
 height:100%;

@@ -80,7 +80,7 @@ Daily Ui Challenge (100)
 63. Best of 2019					✓
 64. Select User Type 				✓
 65. Notes Widget 					✓
-66. Statistics
+66. Statistics 						✓
 67. Hotel Booking
 68. Flight Search
 69. Trending

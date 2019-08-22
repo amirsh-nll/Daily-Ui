@@ -1,5 +1,3 @@
-/* Optimise : Sat, 17 JNUE 2019 00:07:26 */
-
 @charset "UTF-8";
 
 .container {
@@ -147,6 +145,10 @@ position:absolute
 
 .b-none {
 border:none!important
+}
+
+.o-none {
+outline:none!important
 }
 
 .v-hidden {

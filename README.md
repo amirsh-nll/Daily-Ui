@@ -81,8 +81,8 @@ Daily Ui Challenge (100)
 64. Select User Type 				✓
 65. Notes Widget 					✓
 66. Statistics 						✓
-67. Hotel Booking
-68. Flight Search
+67. Hotel Booking					✓
+68. Flight Search 					✓
 69. Trending
 70. Event Listing
 71. Schedule

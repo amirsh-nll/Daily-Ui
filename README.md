@@ -84,7 +84,7 @@ Daily Ui Challenge (100)
 67. Hotel Booking					✓
 68. Flight Search 					✓
 69. Trending 						✓
-70. Event Listing
+70. Event Listing 					✓
 71. Schedule
 72. Image Slider
 73. Virtual Reality

@@ -2483,6 +2483,56 @@ margin:0;
 padding:0
 }
 
+.ui-070 .event-header {
+margin:30px 0
+}
+
+.ui-070 .event-header .logo {
+margin:30px
+}
+
+.ui-070 .event-header .heading {
+margin-top:10px;
+position:absolute
+}
+
+.ui-070 .event-header .navbar {
+padding:30px 50px 0 0
+}
+
+.ui-070 .event-header .navbar span {
+margin-left:10px
+}
+
+.ui-070 .event-list {
+margin:50px 0
+}
+
+.ui-070 .event-list .event-items {
+margin:auto;
+text-align:center
+}
+
+.ui-070 .event-list .event-items .event-item {
+padding:20px;
+box-shadow:0 0 10px #bdc3c7;
+border-radius:10px;
+max-height:500px;
+margin:10px;
+border:3px solid #f1c40f
+}
+
+.ui-070 .event-list .event-items .col-3 {
+width:23%!important
+}
+
+.ui-070 .copyright {
+text-indent:20px;
+margin:50px 0;
+border-top:3px solid #000;
+padding-top:10px
+}
+
 .ui-071 {
 width:100%;
 height:100%;
